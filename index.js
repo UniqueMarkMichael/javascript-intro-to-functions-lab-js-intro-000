@@ -8,6 +8,6 @@ return string.toLowerCase()
 }
 
 function logShout(string) {
-console.log("STRING");
+console.log(string.toUpperCase());
 
 }
